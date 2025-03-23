@@ -5,7 +5,7 @@ This is a Maven repository hosted on GitHub Pages that contains various tools an
 ## Repository URL
 
 ```
-https://superscary.github.io/maven-repo
+https://superscary.github.io/maven
 ```
 
 ## Available Artifacts
@@ -24,7 +24,7 @@ To use this repository in your Maven project, add the following repository confi
 <repositories>
   <repository>
     <id>superscary-github</id>
-    <url>https://superscary.github.io/maven-repo</url>
+    <url>https://superscary.github.io/maven</url>
   </repository>
 </repositories>
 ```
